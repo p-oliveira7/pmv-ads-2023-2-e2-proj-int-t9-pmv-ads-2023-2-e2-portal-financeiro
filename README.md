@@ -19,7 +19,7 @@ Além disso, o site oferece ferramentas interativas, estudos de caso inspiradore
 
 ## Instruções de utilização
 
-* Link da aplicação repositório Github https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t9-pmv-ads-2023-2-e2-portal-financeiro
+* Link da aplicação repositório Github [https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t9-pmv-ads-2023-2-e2-portal-financeiro](https://github.com/p-oliveira7/pmv-ads-2023-2-e2-proj-int-t9-pmv-ads-2023-2-e2-portal-financeiro/tree/main)
 
 * O usuário poderá explorar e navegar pelas seções principais do site, como: "Orçamento", "Poupança", "Investimentos" e "Planejamento para o Futuro". Cada seção contém informações detalhadas sobre o tópico correspondente.
 
