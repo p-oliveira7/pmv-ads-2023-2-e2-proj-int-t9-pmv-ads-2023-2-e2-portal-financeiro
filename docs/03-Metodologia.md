@@ -25,24 +25,16 @@ Os artefatos do projeto são desenvolvidos a partir de diversas plataformas e a 
 A equipe utiliza metodologias ágeis, tendo escolhido o Scrum como base para definição do processo de desenvolvimento.
 A equipe está organizada da seguinte forma:
 
-**Scrum Master:**  Luiz Nader Arruda Junior
+**Scrum Master:**  Paulo Isidoro de Oliveira
 
-**Product Owner:** Lorena Poliane de Oliveira
+**Product Owner:** Victor Gabriel Barbosa de Araújo
 
 **Equipe de Desenvolvimento:** 
-- Gustavo Henrique Pereira da Silva
-- Lorena Poliane de Oliveira
-- Luiz Nader Arruda Junior
-- Mário José Copertino Filho
 - Paulo Isidoro de Oliveira
 - Victor Gabriel Barbosa de Araújo
 
 
 **Equipe de Design:**
-- Gustavo Henrique Pereira da Silva
-- Lorena Poliane de Oliveira
-- Luiz Nader Arruda Junior
-- Mário José Copertino Filho
 - Paulo Isidoro de Oliveira
 - Victor Gabriel Barbosa de Araújo
 
