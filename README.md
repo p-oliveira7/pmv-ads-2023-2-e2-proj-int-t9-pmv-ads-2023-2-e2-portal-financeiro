@@ -10,11 +10,6 @@ O projeto em desenvolvimento é um site focado em educação financeira, destina
 Além disso, o site oferece ferramentas interativas, estudos de caso inspiradores para ajudar os visitantes a desenvolverem habilidades financeiras sólidas e alcançarem estabilidade econômica a longo prazo.
 
 ## Integrantes
-
-* Gustavo Henrique Pereira da Silva
-* Lorena Poliane de Oliveira
-* Luiz Nader Arruda Junior
-* Mário José Copertino Filho
 * Paulo Isidoro de Oliveira
 * Victor Gabriel Barbosa de Araújo
 
